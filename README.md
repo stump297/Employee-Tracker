@@ -15,10 +15,10 @@ This is a command-line application built with Node.js, Inquirer, and PostgreSQL 
 
 MIT
 
-## Links
+## Repo
 
--
+- https://github.com/stump297/Employee-Tracker
 
 ## Questions
 
-For any questions please feel free to email me at aorf@gmail.com
+For any questions please feel free to email me at aorf@femmeosage.net
